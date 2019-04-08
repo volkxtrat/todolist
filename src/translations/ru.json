@@ -1,0 +1,41 @@
+{
+  "auth.label.email": "Email адрес",
+  "auth.label.password": "Пароль",
+  "auth.label.firstName": "Имя",
+  "auth.label.secondName": "Фамилия",
+  "auth.button.registration": "Регистрация",
+  "auth.button.login": "Войти",
+  "auth.button.google": "Войти с помощью Google",
+  "auth.title.login": "Войдите в свой аккаунт",
+  "auth.title.registration": "Регистрация аккаунта",
+  "auth.link.login": "У вас нет аккаунта? ",
+  "auth.link.registration": "Вы уже пользователь? ",
+
+  "auth.success.head": "Вы успешно зарегистрировались",
+  "auth.success.content": "Войдите в ваш аккаунт",
+  "auth.error.signup": "Не удалось зарегистрироваться",
+  "auth.error.signin": "Аутентификация не удалась",
+  "auth.error.EMAIL_EXISTS": "Адрес электронной почты уже используется другой учетной записью.",
+  "auth.error.EMAIL_NOT_FOUND": "Нет записи пользователя, соответствующей этому идентификатору.",
+  "auth.error.INVALID_PASSWORD": "Пароль неверный.",
+  "auth.error.USER_DISABLED": "Учетная запись пользователя была отключена администратором.",
+
+  "validation.required": "Обязательное поле.",
+  "validation.email": "Неверный адрес электронной почты.",
+  "validation.password.min": "Не менее  {count} символов.",
+  "validation.password.latin": "Пароль может содержать только латинские буквы.",
+  "validation.password.capital": "Минимум 1 заглавная буква.",
+  "validation.password.number": "Минимум 1 число.",
+
+  "projectsMenu.rename": "Переименоать",
+  "projectsMenu.lock": "Закрепить",
+  "projectsMenu.unLock": "Открепить",
+  "projectsMenu.color": "Изменить цвет",
+  "projectsMenu.delete": "Удалить",
+
+  "todoItemBlock.done": "Готово",
+
+  "todoMenu.rename": "Переименоать",
+  "todoMenu.date": "Изменить дату и ремя",
+  "todoMenu.delete": "Удалить"
+}

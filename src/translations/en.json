@@ -1,0 +1,41 @@
+{
+  "auth.label.email": "Email address",
+  "auth.label.password": "Password",
+  "auth.label.firstName": "Firs name",
+  "auth.label.secondName": "Second name",
+  "auth.button.registration": "Registration",
+  "auth.button.login": "Log in",
+  "auth.button.google": "Log in with Google",
+  "auth.title.login": "Login in to your account",
+  "auth.title.registration": "Register account",
+  "auth.link.login": "Don't have an account? ",
+  "auth.link.registration": "Already a user? ",
+
+  "auth.success.head": "You have successfully registered",
+  "auth.success.content": "Log in to your account",
+  "auth.error.signup": "Register failed",
+  "auth.error.signin": "Authentication failed",
+  "auth.error.EMAIL_EXISTS": "The email address is already in use by another account.",
+  "auth.error.EMAIL_NOT_FOUND": "There is no user record corresponding to this identifier. The user may have been deleted.",
+  "auth.error.INVALID_PASSWORD": "The password is invalid",
+  "auth.error.USER_DISABLED": "The user account has been disabled by an administrator.",
+
+  "validation.required": "Required",
+  "validation.email": "Invalid email",
+  "validation.password.min": "At least {count} characters long.",
+  "validation.password.latin": "Password can only contain Latin letters.",
+  "validation.password.capital": "1 capital letter.",
+  "validation.password.number": "1 number.",
+
+  "projectsMenu.rename": "Rename",
+  "projectsMenu.lock": "Fasten",
+  "projectsMenu.unLock": "Unfasten",
+  "projectsMenu.color": "Change color",
+  "projectsMenu.delete": "Delete",
+
+  "todoItemBlock.done": "Done",
+
+  "todoMenu.rename": "Rename",
+  "todoMenu.date": "Change date & time",
+  "todoMenu.delete": "Delete"
+}
